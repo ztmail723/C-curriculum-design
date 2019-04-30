@@ -1,0 +1,7 @@
+供货商名称	初始价格修正指数
+Alpha		0.97
+Beta		1.01
+Gamma		1.00
+Delta		1.05
+Epsilon		0.96
+Zeta		1.01

@@ -1,0 +1,39 @@
+类型	时间		配件		型号		单价		数量		供货商/客户	赠品（类型0：进货 1：批发 2：零售）
+0	01/01 05:00	CPU		Tualatin	876.00		100		Beta		0
+1	01/01 06:00	CPU		Tualatin	1000.00		50		Sina		0
+2	01/01 07:00	CPU		Tualatin	1366.00		10		Sina		0
+0	02/01 05:00	CPU		Tualatin	877.00		100		Beta		0
+1	02/01 06:00	CPU		Tualatin	1010.00		50		Sina		0
+2	02/01 07:00	CPU		Tualatin	1370.00		10		Sina		0
+0	03/01 05:00	CPU		Tualatin	878.00		100		Beta		0
+1	03/01 06:00	CPU		Tualatin	1040.00		60		Sina		0
+2	03/01 07:00	CPU		Tualatin	1378.00		10		Sina		0
+0	04/01 05:00	CPU		Tualatin	890.00		100		Beta		0
+1	04/01 06:00	CPU		Tualatin	1050.00		70		Sina		0
+2	04/01 07:00	CPU		Tualatin	1380.00		10		Sina		0
+0	05/01 05:00	CPU		Tualatin	896.00		100		Beta		0
+1	05/01 06:00	CPU		Tualatin	1060.00		80		Sina		0
+2	05/01 07:00	CPU		Tualatin	1388.00		20		Sina		0
+0	06/01 05:00	CPU		Tualatin	899.00		60		Beta		0
+1	06/01 06:00	CPU		Tualatin	1070.00		20		Sina		0
+2	06/01 07:00	CPU		Tualatin	1390.00		10		Sina		0
+0	07/01 05:00	CPU		Tualatin	900.00		100		Beta		0
+1	07/01 06:00	CPU		Tualatin	1077.00		50		Sina		0
+2	07/01 07:00	CPU		Tualatin	1392.00		10		Sina		0
+0	08/01 05:00	CPU		Tualatin	901.00		60		Beta		0
+1	08/01 06:00	CPU		Tualatin	1078.00		10		Sina		0
+2	08/01 07:00	CPU		Tualatin	1396.00		10		Sina		0
+0	09/01 05:00	CPU		Tualatin	902.00		100		Beta		0
+1	09/01 06:00	CPU		Tualatin	1089.00		50		Sina		0
+2	09/01 07:00	CPU		Tualatin	1397.00		10		Sina		0
+0	10/01 05:00	CPU		Tualatin	907.00		100		Beta		0
+1	10/01 06:00	CPU		Tualatin	1090.00		60		Sina		0
+2	10/01 07:00	CPU		Tualatin	1398.00		10		Sina		0
+0	11/01 05:00	CPU		Tualatin	926.00		100		Beta		0
+1	11/01 06:00	CPU		Tualatin	1099.00		50		Sina		0
+2	11/01 07:00	CPU		Tualatin	1406.00		10		Sina		0
+0	12/01 05:00	CPU		Tualatin	947.00		100		Beta		0
+1	12/01 06:00	CPU		Tualatin	1110.00		50		Sina		0
+2	12/01 07:00	CPU		Tualatin	1408.00		10		Sina		0
+
+

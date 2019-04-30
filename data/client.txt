@@ -1,0 +1,8 @@
+类型		客户		性别		单位		初始价格修正指数
+individual	Sun		male		Huaguoshan	1.01
+individual	Hua		female		none		1.02
+individual	Xiaoming	male		EVA		0.99
+individual	Xiaohong	female		EVA		1.01
+group		Baidu		none		none		1.01
+group		Sina		none		none		1.02
+group		Alibaba		none		none		1.03

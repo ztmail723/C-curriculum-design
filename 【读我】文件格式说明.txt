@@ -1,0 +1,16 @@
+test0.txt
+test1.txt
+test2.txt
+test3.txt
+test4.txt
+测试文件，提供了一部分测试数据。
+
+save文件夹里的	savedata.txt是初始记录数据
+		historyX.txt是备份的历史记录
+
+data文件夹里的是基础数据
+
+如果要读取非根目录下的文件，需要加上相对路径
+例如save\history1.txt
+
+如果发现文件的格式较乱，可以把记事本的字体改成 宋体 5号

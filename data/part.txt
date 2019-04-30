@@ -1,0 +1,14 @@
+名称		型号		制造商		库存		临界数量	进货/批发/零售单价
+CPU		Tualatin	Intel		0		1		876/1000/1355
+CPU		Willamette	Intel		0		22		454/678/954
+CPU		Pentium D	Intel		0		33		334/534/654
+CPU		Athlon XP	AMD		0		44		566/700/800
+CPU		Athlon 64 X2	AMD		0		55		700/844/965
+Graphics card	Quadro GT	NVIDIA		0		66		1200/1400/1500
+Graphics card	Tegra		NVIDIA		0		77		800/900/1000
+Mouse		WSB01TM		Xiaomi		0		10		30/40/50
+Mouse		XMSB01MW	Xiaomi		0		10		60/77/88
+Mouse		G102		Luoji		0		8		97/110/120
+Mouse		Pre VirX	Intel		0		90		210/240/280
+Screen		LS2221		Lenovo		0		70		543/764/1230
+Screen		L2461x		Lenovo		0		96		547/986/1502

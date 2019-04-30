@@ -1,0 +1,22 @@
+类型	时间		配件		型号		单价		数量		供货商/客户	赠品（类型0：进货 1：批发 2：零售）
+0	01/01 05:00	CPU		Tualatin	876.00		100		Beta		0
+0	01/01 05:00	CPU		Willamette	454.00		100		Alpha		0
+0	01/01 05:00	CPU		Pentium D	334.00		100		Gamma		0
+0	01/01 05:00	CPU		Athlon XP	566.00		100		Delta		0
+0	01/01 05:00	Graphics card	Quadro GT	1200.00		100		Zeta		0
+0	01/01 05:00	Graphics card	Tegra		800.00		100		Alpha		0
+0	01/01 05:00	Mouse		WSB01TM		30.00		100		Beta		0
+0	01/01 05:00	Mouse		XMSB01MW	60.00		100		Gamma		0
+0	01/01 05:00	Mouse		Pre VirX	210.00		100		Epsilon		0
+0	01/01 05:00	Screen		LS2221		543.00		100		Zeta		0
+0	01/01 05:00	Screen		L2461x		547.00		100		Gamma		0
+0	01/01 05:00	Mouse		G102		97.00		100		Delta		0
+0	01/01 05:00	CPU		Athlon 64 X2	700.00		100		Epsilon		0
+1	01/03 05:32	CPU		Pentium D	654.00		50		Sun		2	Graphics card	Quadro GT	1	CPU	Pentium D	0
+1	03/01 05:00	CPU		Tualatin	776.00		10		Sun		0
+1	04/01 11:11	Graphics card	Quadro GT	567.00		80		Alibaba		1	CPU	Tualatin	0
+1	05/01 05:00	CPU		Tualatin	676.00		10		Sun		0
+1	05/22 12:02	CPU		Athlon 64 X2	805.00		80		Alibaba		3	Mouse	Pre VirX	0
+2	05/24 21:33	Screen		LS2221		607.00		60		Xiaoming	0
+2	06/01 23:56	Mouse		G102		120.00		36		Xiaohong	0
+1	07/01 05:00	CPU		Tualatin	476.00		10		Sun		0
