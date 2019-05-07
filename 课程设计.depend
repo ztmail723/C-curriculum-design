@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1553954344 source:e:\zt\课设\课程设计\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"structtype.h"
+	"smallfunction.h"
+	"mainfunction.h"
+	"debugfile.h"
+
+1554520570 e:\zt\课设\课程设计\structtype.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1554517970 e:\zt\课设\课程设计\smallfunction.h
+	"structtype.h"
+
+1554517802 e:\zt\课设\课程设计\mainfunction.h
+	"structtype.h"
+
+1554519267 source:e:\zt\课设\课程设计\mainfunction.c
+	"smallfunction.h"
+	"mainfunction.h"
+
+1554519442 source:e:\zt\课设\课程设计\smallfunction.c
+	"smallfunction.h"
+
+1553663987 source:e:\zt\课设\课程设计\structtype.c
+	"structtype.h"
+
+1553954358 source:e:\zt\课设\课程设计\debugfile.c
+	"debugfile.h"
+
+1553339727 e:\zt\课设\课程设计\debugfile.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"structtype.h"
+	"smallfunction.h"
+	"mainfunction.h"
+
+1554521778 source:e:\zt\课设\课程设计重构\debugfile.c
+	"debugfile.h"
+
+1554527208 e:\zt\课设\课程设计重构\debugfile.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"structtype.h"
+	"smallfunction.h"
+	"mainfunction.h"
+
+1555809753 e:\zt\课设\课程设计重构\structtype.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<io.h>
+
+1555827933 e:\zt\课设\课程设计重构\smallfunction.h
+	"structtype.h"
+
+1555853508 e:\zt\课设\课程设计重构\mainfunction.h
+	"structtype.h"
+
+1555754626 source:e:\zt\课设\课程设计重构\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"structtype.h"
+	"smallfunction.h"
+	"mainfunction.h"
+	"interface.h"
+
+1554521230 source:e:\zt\课设\课程设计重构\structtype.c
+	"structtype.h"
+
+1555934144 source:e:\zt\课设\课程设计重构\smallfunction.c
+	"smallfunction.h"
+
+1555909688 source:e:\zt\课设\课程设计重构\mainfunction.c
+	"smallfunction.h"
+	"mainfunction.h"
+
+1554521778 source:c:\users\limox\desktop\课程设计重构latest\debugfile.c
+	"debugfile.h"
+
+1554527208 c:\users\limox\desktop\课程设计重构latest\debugfile.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"structtype.h"
+	"smallfunction.h"
+	"mainfunction.h"
+
+1555146601 c:\users\limox\desktop\课程设计重构latest\structtype.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1555148189 c:\users\limox\desktop\课程设计重构latest\smallfunction.h
+	"structtype.h"
+
+1555147889 c:\users\limox\desktop\课程设计重构latest\mainfunction.h
+	"structtype.h"
+
+1554739787 source:c:\users\limox\desktop\课程设计重构latest\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"structtype.h"
+	"smallfunction.h"
+	"mainfunction.h"
+	"debugfile.h"
+
+1555147698 source:c:\users\limox\desktop\课程设计重构latest\smallfunction.c
+	"smallfunction.h"
+
+1554521230 source:c:\users\limox\desktop\课程设计重构latest\structtype.c
+	"structtype.h"
+
+1555148189 source:c:\users\limox\desktop\课程设计重构latest\mainfunction.c
+	"smallfunction.h"
+	"mainfunction.h"
+
+1555826914 e:\zt\课设\课程设计重构\interface.h
+	"structtype.h"
+
+1555864910 source:e:\zt\课设\课程设计重构\interface.c
+	"smallfunction.h"
+	"mainfunction.h"
+	"interface.h"
+
+1555864910 source:c:\users\72330\desktop\课程设计重构\interface.c
+	"smallfunction.h"
+	"mainfunction.h"
+	"interface.h"
+
+1555827933 c:\users\72330\desktop\课程设计重构\smallfunction.h
+	"structtype.h"
+
+1555809753 c:\users\72330\desktop\课程设计重构\structtype.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<io.h>
+
+1555853508 c:\users\72330\desktop\课程设计重构\mainfunction.h
+	"structtype.h"
+
+1555826914 c:\users\72330\desktop\课程设计重构\interface.h
+	"structtype.h"
+
+1555754626 source:c:\users\72330\desktop\课程设计重构\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"structtype.h"
+	"smallfunction.h"
+	"mainfunction.h"
+	"interface.h"
+
+1555934144 source:c:\users\72330\desktop\课程设计重构\smallfunction.c
+	"smallfunction.h"
+
+1554521230 source:c:\users\72330\desktop\课程设计重构\structtype.c
+	"structtype.h"
+
